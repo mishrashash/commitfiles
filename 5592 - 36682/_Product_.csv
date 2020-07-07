@@ -1,0 +1,3 @@
+Id,ProductName,SupplierId,UnitPrice,Package,IsDiscontinued
+83,Generic Frozen Sausages,21,79,Fresh,False
+84,Sleek Concrete Cheese,19,39,Metal,False
