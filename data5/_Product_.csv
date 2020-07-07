@@ -1,0 +1,5 @@
+Id,ProductName,SupplierId,UnitPrice,Package,IsDiscontinued
+71,Awesome Concrete Bacon,20,88,Rubber,False
+72,Incredible Frozen Shoes,16,15,Frozen,False
+,73,Rustic Steel Chips,18,26,Granite,False
+,74,Practical Concrete Shoes,22,53,Granite,False
