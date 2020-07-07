@@ -1,0 +1,3 @@
+Id,ProductName,SupplierId,UnitPrice,Package,IsDiscontinued
+81,Tasty Metal Table,19,80,Rubber,False
+82,Sleek Rubber Mouse,24,50,Concrete,False
